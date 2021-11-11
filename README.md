@@ -1,2 +1,2 @@
 # matrix-calc
-Simple matrix with choosing by case-switch
+Simple matrix calculator with choosing by case-switch
